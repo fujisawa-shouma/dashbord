@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="catalog_script_client">
+    <catalog_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_extended>false</applies_extended>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
+        <applies_target_record>false</applies_target_record>
+        <applies_to>item</applies_to>
+        <cat_item display_value="入力欄">93f46ab9830d7210c386e5d0deaad3d6</cat_item>
+        <cat_variable/>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>test</name>
+        <order/>
+        <published_ref/>
+        <script><![CDATA[function onSubmit() {
+
+    var targetUrl = 'https://dev215086.service-now.com/now/platform-analytics-workspace/dashboards/params/edit/false/sys-id/3627a03283c1b210c386e5d0deaad384';
+
+    // 少し遅延させてリダイレクト（ServiceNowの送信処理完了後に実行）
+    setTimeout(function() {
+        window.open = targetUrl;
+    }, 1000); // 1秒後に遷移
+
+    return true;
+
+
+}]]></script>
+        <sys_class_name>catalog_script_client</sys_class_name>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-10 08:21:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>beceb97e8389b210c386e5d0deaad39c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope>
+        <sys_update_name>catalog_script_client_beceb97e8389b210c386e5d0deaad39c</sys_update_name>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-10 08:26:35</sys_updated_on>
+        <table/>
+        <type>onSubmit</type>
+        <ui_type>0</ui_type>
+        <va_supported>true</va_supported>
+        <variable_set/>
+        <view/>
+    </catalog_script_client>
+</record_update>

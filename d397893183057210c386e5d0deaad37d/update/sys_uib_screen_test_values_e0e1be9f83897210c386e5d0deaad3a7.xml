@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent/>
+        <macroponent_config>{
+    "5865e308432021105571609dc7b8f23b": {
+        "allRecordsSelected": false,
+        "columnFilteringPopoverDisplay": "",
+        "columnLimit": 0,
+        "columnPreferenceKey": "",
+        "columns": "",
+        "currentPage": 0,
+        "enableCardClickOpen": false,
+        "enableCellFiltering": true,
+        "enableColumnFiltering": true,
+        "enableColumnGrouping": true,
+        "enableColumnSorting": true,
+        "enableDeclarativeActions": true,
+        "enableDotWalk": true,
+        "enableInfiniteScroll": false,
+        "enableLiveList": false,
+        "enableOnlySingleSelection": false,
+        "enableQuickEdit": true,
+        "enableQuickFormNavigation": true,
+        "enableReferenceLinks": true,
+        "enforceViewRulesForQuickForm": true,
+        "fetchHighlightedValues": true,
+        "filter": "",
+        "fixedFilter": "",
+        "groupBy": "",
+        "listControllerId": "nnRxuvP4D0HK9zoPMOO1HQ2A",
+        "listId": null,
+        "listType": "default",
+        "liveUpdates": "off",
+        "onlyEnableSelectionWhenRequiredByActions": true,
+        "pageSysId": "6ce1be9f83897210c386e5d0deaad39a",
+        "showListOpenedByLinkSection": null,
+        "table": "task",
+        "view": ""
+    },
+    "table": "task",
+    "sysId": "50ccce8783813210c386e5d0deaad36b",
+    "query": null,
+    "views": null,
+    "activityLogs": null,
+    "extraParams": null,
+    "fields": null,
+    "screen": null,
+    "selectedTabIndex": null,
+    "userPrefs": null,
+    "sysparmView": null
+}</macroponent_config>
+        <screen display_value="運用レポート">a8e1be9f83897210c386e5d0deaad3a0</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-12 01:21:22</sys_created_on>
+        <sys_id>e0e1be9f83897210c386e5d0deaad3a7</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_e0e1be9f83897210c386e5d0deaad3a7</sys_update_name>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-12 02:50:02</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>
