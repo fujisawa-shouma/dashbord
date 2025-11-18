@@ -3,7 +3,7 @@
         <can_read>true</can_read>
         <can_share>false</can_share>
         <can_write>false</can_write>
-        <dashboard display_value="Capella">0a8b32c783853210c386e5d0deaad3a5</dashboard>
+        <dashboard display_value="タスク一覧">0a8b32c783853210c386e5d0deaad3a5</dashboard>
         <group/>
         <owner>false</owner>
         <role display_value="x_1781293_dashbo_0.user" name="x_1781293_dashbo_0.user">d397893183057210c386e5d0deaad3f7</role>

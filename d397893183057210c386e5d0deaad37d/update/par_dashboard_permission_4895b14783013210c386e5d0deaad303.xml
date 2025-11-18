@@ -3,7 +3,7 @@
         <can_read>true</can_read>
         <can_share>false</can_share>
         <can_write>true</can_write>
-        <dashboard display_value="home">5c84387a8305b210c386e5d0deaad313</dashboard>
+        <dashboard display_value="ホーム">5c84387a8305b210c386e5d0deaad313</dashboard>
         <group/>
         <owner>false</owner>
         <role display_value="x_1781293_dashbo_0.admin" name="x_1781293_dashbo_0.admin">9f97893183057210c386e5d0deaad383</role>

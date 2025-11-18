@@ -2,7 +2,7 @@
     <par_dashboard_tab action="INSERT_OR_UPDATE">
         <active>true</active>
         <background_color/>
-        <dashboard display_value="home">5c84387a8305b210c386e5d0deaad313</dashboard>
+        <dashboard display_value="ホーム">5c84387a8305b210c386e5d0deaad313</dashboard>
         <name>New Tab 4</name>
         <order>0</order>
         <sys_class_name>par_dashboard_tab</sys_class_name>

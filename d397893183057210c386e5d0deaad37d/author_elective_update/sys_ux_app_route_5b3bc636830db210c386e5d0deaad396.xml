@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="詳細ダッシュボード">02dc36706f01011089060168e25b3691</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <interoperable>false</interoperable>
+        <name>test</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Base Experience Shell - Advanced">47bcb58553030110aab9ddeeff7b12c2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>test2001440159</route_type>
+        <screen_type display_value="テスト">173bc636830db210c386e5d0deaad374</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-10 09:15:34</sys_created_on>
+        <sys_id>5b3bc636830db210c386e5d0deaad396</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope>
+        <sys_update_name>sys_ux_app_route_5b3bc636830db210c386e5d0deaad396</sys_update_name>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-10 09:15:34</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="DELETE" query="documentkey=5b3bc636830db210c386e5d0deaad396"/>
+    <sys_translated_text action="DELETE">
+        <documentkey>5b3bc636830db210c386e5d0deaad396</documentkey>
+        <fieldname>description</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-10 09:15:34</sys_created_on>
+        <sys_id>1f3bc636830db210c386e5d0deaad398</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-10 09:15:34</sys_updated_on>
+        <tablename>sys_ux_app_route</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</application>
+        <file_path/>
+        <instance_id>0001c44e1b26719cc84543f4bd4bcb06</instance_id>
+        <instance_name>dev215086</instance_name>
+        <name>sys_ux_app_route_5b3bc636830db210c386e5d0deaad396</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="詳細ダッシュボード">02dc36706f01011089060168e25b3691</app_config><description/><extension_point/><fields/><icon/><interoperable>false</interoperable><name>test</name><optional_parameters/><order>0</order><parent_macroponent display_value="UXR Base Experience Shell - Advanced">47bcb58553030110aab9ddeeff7b12c2</parent_macroponent><parent_macroponent_composition_element_id/><route_type>test2001440159</route_type><screen_type display_value="テスト">173bc636830db210c386e5d0deaad374</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin_fujisawa_shouma</sys_created_by><sys_created_on>2025-11-10 09:15:34</sys_created_on><sys_id>5b3bc636830db210c386e5d0deaad396</sys_id><sys_mod_count>0</sys_mod_count><sys_name>test</sys_name><sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package><sys_policy/><sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope><sys_update_name>sys_ux_app_route_5b3bc636830db210c386e5d0deaad396</sys_update_name><sys_updated_by>admin_fujisawa_shouma</sys_updated_by><sys_updated_on>2025-11-10 09:15:34</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=5b3bc636830db210c386e5d0deaad396"/><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>5b3bc636830db210c386e5d0deaad396</documentkey><fieldname>description</fieldname><language>ja</language><sys_created_by>admin_fujisawa_shouma</sys_created_by><sys_created_on>2025-11-10 09:15:34</sys_created_on><sys_id>1f3bc636830db210c386e5d0deaad398</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin_fujisawa_shouma</sys_updated_by><sys_updated_on>2025-11-10 09:15:34</sys_updated_on><tablename>sys_ux_app_route</tablename><value/></sys_translated_text></record_update>]]></payload>
+        <payload_hash>-1233654098</payload_hash>
+        <record_name>test</record_name>
+        <reverted_from/>
+        <source>d797893183057210c386e5d0deaad380</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-10 09:15:34</sys_created_on>
+        <sys_id>933bc636830db210c386e5d0deaad39a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a6d0c9b550000001</sys_recorded_at>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-10 09:15:34</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>1b3bc636880db210c641ea8763390299</update_guid>
+        <update_guid_history>1b3bc636880db210c641ea8763390299:-1233654098</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-12 00:46:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>006f598a2ef44c9b800122b7bce78141</sys_id>
+        <sys_metadata>5b3bc636830db210c386e5d0deaad396</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope>
+        <sys_scope_delete display_value="">1822ea28276e4acc826ac3e1af005f10</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_5b3bc636830db210c386e5d0deaad396</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_5b3bc636830db210c386e5d0deaad396">933bc636830db210c386e5d0deaad39a</sys_update_version>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-12 00:46:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -6,7 +6,7 @@
         <disable_auto_reflow>false</disable_auto_reflow>
         <disable_interoperable>false</disable_interoperable>
         <event_mappings/>
-        <macroponent display_value="Technical editor">6ce1ca1d839d7210c386e5d0deaad3ca</macroponent>
+        <macroponent display_value="Technical editor default">6ce1ca1d839d7210c386e5d0deaad3ca</macroponent>
         <macroponent_config>{}</macroponent_config>
         <name>Technical editor default</name>
         <order>0</order>

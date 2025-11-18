@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard">
+    <par_dashboard action="DELETE">
+        <active>true</active>
+        <base_dashboard/>
+        <certified>false</certified>
+        <description/>
+        <experience/>
+        <grid>48</grid>
+        <name>test</name>
+        <sys_class_name>par_dashboard</sys_class_name>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-12 01:20:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6ec1fe5f83897210c386e5d0deaad3a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope>
+        <sys_update_name>par_dashboard_6ec1fe5f83897210c386e5d0deaad3a8</sys_update_name>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-12 01:20:57</sys_updated_on>
+        <sys_ux_app_config/>
+        <sys_ux_app_route/>
+        <sys_ux_macroponent/>
+        <sys_ux_screen/>
+        <sys_ux_screen_type/>
+    </par_dashboard>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</application>
+        <file_path/>
+        <instance_id>0001c44e1b26719cc84543f4bd4bcb06</instance_id>
+        <instance_name>dev215086</instance_name>
+        <name>par_dashboard_6ec1fe5f83897210c386e5d0deaad3a8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard"><par_dashboard action="INSERT_OR_UPDATE"><active>true</active><base_dashboard/><certified>false</certified><description/><experience/><grid>48</grid><name>test</name><sys_class_name>par_dashboard</sys_class_name><sys_created_by>admin_fujisawa_shouma</sys_created_by><sys_created_on>2025-11-12 01:20:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6ec1fe5f83897210c386e5d0deaad3a8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>test</sys_name><sys_overrides/><sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package><sys_policy/><sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope><sys_update_name>par_dashboard_6ec1fe5f83897210c386e5d0deaad3a8</sys_update_name><sys_updated_by>admin_fujisawa_shouma</sys_updated_by><sys_updated_on>2025-11-12 01:20:57</sys_updated_on><sys_ux_app_config/><sys_ux_app_route/><sys_ux_macroponent/><sys_ux_screen/><sys_ux_screen_type/></par_dashboard></record_update>]]></payload>
+        <payload_hash>1079548579</payload_hash>
+        <record_name>test</record_name>
+        <reverted_from/>
+        <source>d797893183057210c386e5d0deaad380</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-12 01:20:57</sys_created_on>
+        <sys_id>e6c1fe5f83897210c386e5d0deaad3ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a75a6d0560000001</sys_recorded_at>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-12 01:20:57</sys_updated_on>
+        <type>PAR Dashboard</type>
+        <update_guid>6ec1fe5f3589721091b84081a92718aa</update_guid>
+        <update_guid_history>6ec1fe5f3589721091b84081a92718aa:1079548579</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="test">4f727a1383c97210c386e5d0deaad30f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-12 01:24:00</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard">par_dashboard</sys_db_object>
+        <sys_id>8454ccd37a6c426794f59eb6a6a38609</sys_id>
+        <sys_metadata>6ec1fe5f83897210c386e5d0deaad3a8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope>
+        <sys_scope_delete display_value="">1822ea28276e4acc826ac3e1af005f10</sys_scope_delete>
+        <sys_update_name>par_dashboard_6ec1fe5f83897210c386e5d0deaad3a8</sys_update_name>
+        <sys_update_version display_value="par_dashboard_6ec1fe5f83897210c386e5d0deaad3a8">e6c1fe5f83897210c386e5d0deaad3ab</sys_update_version>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-12 01:24:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -4,7 +4,7 @@
         <base_dashboard/>
         <certified>false</certified>
         <description/>
-        <experience display_value="Advanced Dashboards">8adc36706f01011089060168e25b3693</experience>
+        <experience display_value="詳細ダッシュボード">8adc36706f01011089060168e25b3693</experience>
         <grid>48</grid>
         <name>ホーム</name>
         <sys_class_name>par_dashboard</sys_class_name>
@@ -22,7 +22,7 @@
         <sys_update_name>par_dashboard_5655c9f783013210c386e5d0deaad3f9</sys_update_name>
         <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
         <sys_updated_on>2025-11-13 06:53:18</sys_updated_on>
-        <sys_ux_app_config display_value="Advanced Dashboards">02dc36706f01011089060168e25b3691</sys_ux_app_config>
+        <sys_ux_app_config display_value="詳細ダッシュボード">02dc36706f01011089060168e25b3691</sys_ux_app_config>
         <sys_ux_app_route display_value="ホーム">8355857b83013210c386e5d0deaad3f3</sys_ux_app_route>
         <sys_ux_macroponent display_value="ホーム default">e255857b83013210c386e5d0deaad3bf</sys_ux_macroponent>
         <sys_ux_screen display_value="ホーム default">3655857b83013210c386e5d0deaad3e9</sys_ux_screen>

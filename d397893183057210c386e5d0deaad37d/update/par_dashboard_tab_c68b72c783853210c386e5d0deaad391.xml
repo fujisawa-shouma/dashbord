@@ -2,7 +2,7 @@
     <par_dashboard_tab action="INSERT_OR_UPDATE">
         <active>true</active>
         <background_color/>
-        <dashboard display_value="Capella">0a8b32c783853210c386e5d0deaad3a5</dashboard>
+        <dashboard display_value="タスク一覧">0a8b32c783853210c386e5d0deaad3a5</dashboard>
         <name>New Tab 9</name>
         <order>0</order>
         <sys_class_name>par_dashboard_tab</sys_class_name>

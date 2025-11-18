@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
     <sys_ux_screen action="INSERT_OR_UPDATE">
         <active>true</active>
-        <app_config display_value="Advanced Dashboards">02dc36706f01011089060168e25b3691</app_config>
+        <app_config display_value="詳細ダッシュボード">02dc36706f01011089060168e25b3691</app_config>
         <description/>
         <disable_auto_reflow>false</disable_auto_reflow>
         <disable_interoperable>false</disable_interoperable>

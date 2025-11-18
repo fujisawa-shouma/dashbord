@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_user_metadata">
+    <par_dashboard_user_metadata action="DELETE">
+        <background_color/>
+        <cache_expiration_time>0</cache_expiration_time>
+        <card_bg_image/>
+        <created_by_user display_value="昇真 藤澤">c9f534aa83103210c386e5d0deaad331</created_by_user>
+        <created_on>2025-11-11 06:52:15</created_on>
+        <dashboard display_value="Capella">ed047e8b83453210c386e5d0deaad375</dashboard>
+        <edit_locked/>
+        <enable_data_cache>false</enable_data_cache>
+        <include_custom_insights>true</include_custom_insights>
+        <include_key_contributors>true</include_key_contributors>
+        <include_kpi_signals>true</include_kpi_signals>
+        <include_predictive_target>true</include_predictive_target>
+        <include_predictive_thresholds>true</include_predictive_thresholds>
+        <include_process_mining>true</include_process_mining>
+        <include_severity>true</include_severity>
+        <include_target>true</include_target>
+        <include_thresholds>true</include_thresholds>
+        <include_trends>true</include_trends>
+        <include_widget_notification>true</include_widget_notification>
+        <last_deactivated_on/>
+        <last_updated_on>2025-11-11 06:52:15</last_updated_on>
+        <po_project_id_list/>
+        <refresh_information>false</refresh_information>
+        <refresh_interval/>
+        <requested_by_user/>
+        <schedule_repetition>false</schedule_repetition>
+        <show_insights_panel>true</show_insights_panel>
+        <sys_class_name>par_dashboard_user_metadata</sys_class_name>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-11 06:52:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f104be8b83453210c386e5d0deaad3d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope>
+        <sys_update_name>par_dashboard_user_metadata_f104be8b83453210c386e5d0deaad3d9</sys_update_name>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-11 06:52:15</sys_updated_on>
+        <updated_by_user display_value="昇真 藤澤">c9f534aa83103210c386e5d0deaad331</updated_by_user>
+        <use_custom_tab_colors>false</use_custom_tab_colors>
+        <widgets_margin>$now-global-space--sm</widgets_margin>
+    </par_dashboard_user_metadata>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</application>
+        <file_path/>
+        <instance_id>0001c44e1b26719cc84543f4bd4bcb06</instance_id>
+        <instance_name>dev215086</instance_name>
+        <name>par_dashboard_user_metadata_f104be8b83453210c386e5d0deaad3d9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_user_metadata"><par_dashboard_user_metadata action="INSERT_OR_UPDATE"><background_color/><cache_expiration_time>0</cache_expiration_time><card_bg_image/><created_by_user display_value="昇真 藤澤">c9f534aa83103210c386e5d0deaad331</created_by_user><created_on>2025-11-11 06:52:15</created_on><dashboard display_value="Capella">ed047e8b83453210c386e5d0deaad375</dashboard><edit_locked/><enable_data_cache>false</enable_data_cache><include_custom_insights>true</include_custom_insights><include_key_contributors>true</include_key_contributors><include_kpi_signals>true</include_kpi_signals><include_predictive_target>true</include_predictive_target><include_predictive_thresholds>true</include_predictive_thresholds><include_process_mining>true</include_process_mining><include_severity>true</include_severity><include_target>true</include_target><include_thresholds>true</include_thresholds><include_trends>true</include_trends><include_widget_notification>true</include_widget_notification><last_deactivated_on/><last_updated_on>2025-11-11 06:52:15</last_updated_on><po_project_id_list/><refresh_information>false</refresh_information><refresh_interval/><requested_by_user/><schedule_repetition>false</schedule_repetition><show_insights_panel>true</show_insights_panel><sys_class_name>par_dashboard_user_metadata</sys_class_name><sys_created_by>admin_fujisawa_shouma</sys_created_by><sys_created_on>2025-11-11 06:52:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f104be8b83453210c386e5d0deaad3d9</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package><sys_policy/><sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope><sys_update_name>par_dashboard_user_metadata_f104be8b83453210c386e5d0deaad3d9</sys_update_name><sys_updated_by>admin_fujisawa_shouma</sys_updated_by><sys_updated_on>2025-11-11 06:52:15</sys_updated_on><updated_by_user display_value="昇真 藤澤">c9f534aa83103210c386e5d0deaad331</updated_by_user><use_custom_tab_colors>false</use_custom_tab_colors><widgets_margin>$now-global-space--sm</widgets_margin></par_dashboard_user_metadata></record_update>]]></payload>
+        <payload_hash>809945929</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>d797893183057210c386e5d0deaad380</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-11 06:52:15</sys_created_on>
+        <sys_id>7104be8b83453210c386e5d0deaad3db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a71afc2680000001</sys_recorded_at>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-11 06:52:15</sys_updated_on>
+        <type>PAR Dashboard Metadata</type>
+        <update_guid>b504be8bdc453210e338a1c75a7474da</update_guid>
+        <update_guid_history>b504be8bdc453210e338a1c75a7474da:809945929</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">e3defa4f83853210c386e5d0deaad37b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-11 07:39:37</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_user_metadata">par_dashboard_user_metadata</sys_db_object>
+        <sys_id>18962d19180c4a0e845ed826c43d5524</sys_id>
+        <sys_metadata>f104be8b83453210c386e5d0deaad3d9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope>
+        <sys_scope_delete display_value="">1822ea28276e4acc826ac3e1af005f10</sys_scope_delete>
+        <sys_update_name>par_dashboard_user_metadata_f104be8b83453210c386e5d0deaad3d9</sys_update_name>
+        <sys_update_version display_value="par_dashboard_user_metadata_f104be8b83453210c386e5d0deaad3d9">7104be8b83453210c386e5d0deaad3db</sys_update_version>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-11 07:39:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

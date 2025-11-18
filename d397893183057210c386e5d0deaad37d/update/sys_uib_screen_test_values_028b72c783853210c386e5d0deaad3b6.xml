@@ -2,7 +2,7 @@
     <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
         <macroponent/>
         <macroponent_config>{ }</macroponent_config>
-        <screen display_value="Capella default">4a8b72c783853210c386e5d0deaad3b0</screen>
+        <screen display_value="タスク一覧">4a8b72c783853210c386e5d0deaad3b0</screen>
         <sys_class_name>sys_uib_screen_test_values</sys_class_name>
         <sys_created_by>admin_fujisawa_shouma</sys_created_by>
         <sys_created_on>2025-11-11 07:25:03</sys_created_on>

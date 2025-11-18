@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">d14f45f983057210c386e5d0deaad39b</canvas>
+        <component display_value="Filter">226449101138d0dff1abe0e1566c8b2a</component>
+        <component_props>{"filterId":"1j9e7n15arcdb9c5of7k","filterName":"Label","filterComponentType":"singleselect","datasource":{"type":"table","payload":{"table":"sys_user","primaryKey":"sys_id"}},"targets":[{"type":"table","payload":{"field":"assigned_to","table":"x_1781293_test1_task_test_1","primaryKey":"sys_id"}}],"defaultSelectedItems":[],"defaultSelectedDateRange":{"range":""},"dateFilterView":"calendar-reldates","sort":"ASC","filterElementType":"selectors","isShowSelectedValueInPill":true,"filterElementLayout":"vertical","enableClearFilter":true,"primaryActionLabel":"Apply","maxElements":500,"filterConfigurations":"@state.parFilters","cascadeScope":"114f45f983057210c386e5d0deaad398","isDashboard":true,"isGroup":false,"value":[],"cascadingConfig":{"filtersFollowing":[],"filterM2MConfigurations":[]}}</component_props>
+        <h>9</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-07 04:04:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4737e53d83857210c386e5d0deaad30c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope>
+        <sys_update_name>par_dashboard_widget_4737e53d83857210c386e5d0deaad30c</sys_update_name>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-07 04:05:21</sys_updated_on>
+        <visualization/>
+        <w>29</w>
+        <widget_props/>
+        <x>0</x>
+        <y>20</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</application>
+        <file_path/>
+        <instance_id>0001c44e1b26719cc84543f4bd4bcb06</instance_id>
+        <instance_name>dev215086</instance_name>
+        <name>par_dashboard_widget_4737e53d83857210c386e5d0deaad30c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">d14f45f983057210c386e5d0deaad39b</canvas><component display_value="Filter">226449101138d0dff1abe0e1566c8b2a</component><component_props>{"filterId":"1j9e7n15arcdb9c5of7k","filterName":"Label","filterComponentType":"singleselect","datasource":{"type":"table","payload":{"table":"sys_user","primaryKey":"sys_id"}},"targets":[{"type":"table","payload":{"field":"assigned_to","table":"x_1781293_test1_task_test_1","primaryKey":"sys_id"}}],"defaultSelectedItems":[],"defaultSelectedDateRange":{"range":""},"dateFilterView":"calendar-reldates","sort":"ASC","filterElementType":"selectors","isShowSelectedValueInPill":true,"filterElementLayout":"vertical","enableClearFilter":true,"primaryActionLabel":"Apply","maxElements":500,"filterConfigurations":"@state.parFilters","cascadeScope":"114f45f983057210c386e5d0deaad398","isDashboard":true,"isGroup":false,"value":[],"cascadingConfig":{"filtersFollowing":[],"filterM2MConfigurations":[]}}</component_props><h>9</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin_fujisawa_shouma</sys_created_by><sys_created_on>2025-11-07 04:04:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4737e53d83857210c386e5d0deaad30c</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package><sys_policy/><sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope><sys_update_name>par_dashboard_widget_4737e53d83857210c386e5d0deaad30c</sys_update_name><sys_updated_by>admin_fujisawa_shouma</sys_updated_by><sys_updated_on>2025-11-07 04:05:21</sys_updated_on><visualization/><w>29</w><widget_props/><x>0</x><y>20</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-910514058</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>d797893183057210c386e5d0deaad380</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-07 04:05:22</sys_created_on>
+        <sys_id>4e77617983457210c386e5d0deaad381</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a5c7d87cd0000001</sys_recorded_at>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-07 04:05:22</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>c2776179b74572107f553200749f7c81</update_guid>
+        <update_guid_history>c2776179b74572107f553200749f7c81:-910514058,0737e53db4857210f18393de7560b696:-1501571033</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">7e386d7d83857210c386e5d0deaad3f0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-07 04:08:41</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>7aaf4612faf248b28bf82ff4855ce9e4</sys_id>
+        <sys_metadata>4737e53d83857210c386e5d0deaad30c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope>
+        <sys_scope_delete display_value="">1822ea28276e4acc826ac3e1af005f10</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_4737e53d83857210c386e5d0deaad30c</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_4737e53d83857210c386e5d0deaad30c">4e77617983457210c386e5d0deaad381</sys_update_version>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-07 04:08:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
