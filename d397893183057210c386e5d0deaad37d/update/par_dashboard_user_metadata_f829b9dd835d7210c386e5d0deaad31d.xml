@@ -4,9 +4,9 @@
         <cache_expiration_time>24</cache_expiration_time>
         <card_bg_image/>
         <created_by_user display_value="昇真 藤澤">c9f534aa83103210c386e5d0deaad331</created_by_user>
-        <created_on>2025-11-10 02:56:37</created_on>
-        <dashboard display_value="ホーム">5c84387a8305b210c386e5d0deaad313</dashboard>
-        <edit_locked>{"sysId":"c9f534aa83103210c386e5d0deaad331","name":"昇真 藤澤","lockedOn":"1763442288965"}</edit_locked>
+        <created_on>2025-11-18 02:21:17</created_on>
+        <dashboard display_value="In-line editor">b429b9dd835d7210c386e5d0deaad318</dashboard>
+        <edit_locked/>
         <enable_data_cache>false</enable_data_cache>
         <include_custom_insights>true</include_custom_insights>
         <include_key_contributors>true</include_key_contributors>
@@ -20,30 +20,30 @@
         <include_trends>true</include_trends>
         <include_widget_notification>true</include_widget_notification>
         <last_deactivated_on/>
-        <last_updated_on>2025-11-18 05:14:34</last_updated_on>
+        <last_updated_on>2025-11-18 02:38:40</last_updated_on>
         <po_project_id_list>[]</po_project_id_list>
         <refresh_information>false</refresh_information>
-        <refresh_interval/>
+        <refresh_interval>-1</refresh_interval>
         <requested_by_user/>
         <schedule_repetition>false</schedule_repetition>
         <show_insights_panel>true</show_insights_panel>
         <sys_class_name>par_dashboard_user_metadata</sys_class_name>
         <sys_created_by>admin_fujisawa_shouma</sys_created_by>
-        <sys_created_on>2025-11-10 02:56:37</sys_created_on>
+        <sys_created_on>2025-11-18 02:21:17</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>9c84387a8305b210c386e5d0deaad318</sys_id>
-        <sys_mod_count>211</sys_mod_count>
+        <sys_id>f829b9dd835d7210c386e5d0deaad31d</sys_id>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope>
-        <sys_update_name>par_dashboard_user_metadata_9c84387a8305b210c386e5d0deaad318</sys_update_name>
+        <sys_update_name>par_dashboard_user_metadata_f829b9dd835d7210c386e5d0deaad31d</sys_update_name>
         <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
-        <sys_updated_on>2025-11-18 05:14:34</sys_updated_on>
+        <sys_updated_on>2025-11-18 02:41:47</sys_updated_on>
         <updated_by_user display_value="昇真 藤澤">c9f534aa83103210c386e5d0deaad331</updated_by_user>
         <use_custom_tab_colors>false</use_custom_tab_colors>
-        <widgets_margin/>
+        <widgets_margin>$now-global-space--sm</widgets_margin>
     </par_dashboard_user_metadata>
 </record_update>
