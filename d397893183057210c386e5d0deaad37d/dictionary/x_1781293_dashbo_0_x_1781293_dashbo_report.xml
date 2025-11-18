@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b384aa79830d7210c386e5d0deaad342" label="運用レポート" max_length="40" name="x_1781293_dashbo_0_x_1781293_dashbo_report" type="collection">
+        <element label="本番インスタンスのバージョン" max_length="40" name="prd_ver" type="string"/>
+        <element label="次回バージョンアップ" max_length="40" name="next_verup" type="glide_date"/>
+        <element choice="1" label="稼働" max_length="40" name="kadou" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="いずれかのインスタンスに異常を確認しています" value="no"/>
+                <element inactive_on_update="false" label="開発・検証・ステージング・本番インスタンスとも正常に稼働しています" value="yes"/>
+            </choice>
+        </element>
+    </element>
+</database>

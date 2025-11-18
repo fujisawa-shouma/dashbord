@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">d14f45f983057210c386e5d0deaad39b</canvas>
+        <component display_value="Semi donut">3809c6583b8dd540a0bf735ed493bae2</component>
+        <component_props>{"userInfo":"@context.session.user","showFilterIcon":true,"enableAddZerosAtApi":true,"emptyStateHeadingLevel":3,"dateFormat":"default","showMaximumRange":false,"emptyStateAlignment":"vertical-centered","scoreType":null,"showFirstGroupAggregate":false,"selectedElements":[],"emptyStateHeading":"No data available.","showForecast":false,"legendHorizontalAlignment":"center","filterPerMetric":[],"chartInteractionActionGoToURLPageName":"test","truncationType":"end","showRegisterValue":false,"sortBy":"name","dataSources":[{"sourceType":"table","allowRealTime":true,"label":"タスク","id":"dGFibGV0YXNrMTc2MjQ4MjM0MjM2Nw==","tableOrViewName":"task","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"dataCategories":["trend","group","simple"],"isDatabaseView":false,"filterQuery":"sys_class_name=x_1781293_test1_task_test_1^ORsys_class_name=x_1781293_test2_task_test_1"}],"chartInteractionActionGoToURLInput":"https://dev215086.service-now.com/now/platform-analytics-workspace/dashboards/params/edit/false/sys-id/fd5f893983057210c386e5d0deaad349","showAdditionalGroupBySelector":false,"registerPosition":"bottom","cacheExpirationTime":0,"period":"M","showChange":false,"configVersion":"23.0.0-ci-SNAPSHOT","legendExpandToFit":false,"showSubAggregate":false,"showRegisterPercentage":false,"showLoadingIndicator":false,"showRegisterOnSameLine":false,"useDataCache":false,"showSecondGroupAggregate":false,"showFilterAsSeparateSeries":false,"showMetricLabel":false,"showCacheTime":true,"showHeaderSeparator":true,"showSparkline":false,"hideDevSettings":false,"showTarget":false,"allowAdditionalGroupByPerMetric":false,"showDataLabels":true,"telemetry":null,"metrics":[{"numberFormat":{"customFormat":false},"id":"ZEdGaWJHVjBZWE5yTVRjMk1qUTRNak0wTWpNMk53PT0xNzYyNDgyMzQ0NDU5","aggregateFunction":"COUNT","dataSource":"dGFibGV0YXNrMTc2MjQ4MjM0MjM2Nw==","axisId":"primary"}],"showChangeFrom":"previous","registerOrientation":"horizontal","showDataTable":true,"headerTitle":"タスクテーブル","configPropModifiers":{},"applyDateRange":false,"sharedContext":{"datasourceConfigurations":{"table":{"useSeriesLabels":false,"timeZone":"SESSION"}}},"sortByOrder":"asc","enableCustomEmptyState":true,"componentId":"eisagku5","showThreshold":false,"allowChangeDateRange":false,"hideMatrixAggregate":false,"description":"タスク拡張から始まるテーブルにしぽったデータ","trendBy":null,"numberOfPeriods":3,"groupBy":[{"disableRanges":false,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"groupBy":[{"groupByField":"sys_class_name","isChoice":true,"isPaBucket":false,"dataSource":"dGFibGV0YXNrMTc2MjQ4MjM0MjM2Nw==","isRange":false}],"maxNumberOfGroups":"ALL"}],"showRefresh":true,"contextMenuActions":[],"colors":{},"showTrend":false,"enableRealTimeUpdate":false,"useCurrentDateForEnd":false,"showRegister":true,"showForecastRange":false,"showAbsolutePeriod":false,"dataLabelsType":"both","followFilters":true,"enableClickAndStay":false,"showTotalAggregate":false,"showChangePercentage":false,"chartInteractionAction":"goToUrl","showHeader":true,"bareBorder":false,"showDateRangeByDefault":false,"showConfidenceBand":false,"showComment":false,"refreshFrequency":null,"wrapTitle":false,"additionalGroupByConfig":[],"showBorder":true,"colorConfig":{"type":"default"},"filterConfigurations":"@state.parFilters","showGapPercentage":false,"showDataPassthrough":false,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","newReporting":false,"emptyStateIllustration":"add-attachment","headingLevel":2,"enableDrilldown":true}</component_props>
+        <h>17</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-07 02:24:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6050dd3d83057210c386e5d0deaad3d1</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope>
+        <sys_update_name>par_dashboard_widget_6050dd3d83057210c386e5d0deaad3d1</sys_update_name>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-07 05:19:29</sys_updated_on>
+        <visualization/>
+        <w>14</w>
+        <widget_props/>
+        <x>0</x>
+        <y>3</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</application>
+        <file_path/>
+        <instance_id>0001c44e1b26719cc84543f4bd4bcb06</instance_id>
+        <instance_name>dev215086</instance_name>
+        <name>par_dashboard_widget_6050dd3d83057210c386e5d0deaad3d1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">d14f45f983057210c386e5d0deaad39b</canvas><component display_value="Semi donut">3809c6583b8dd540a0bf735ed493bae2</component><component_props>{"userInfo":"@context.session.user","showFilterIcon":true,"enableAddZerosAtApi":true,"emptyStateHeadingLevel":3,"dateFormat":"default","showMaximumRange":false,"emptyStateAlignment":"vertical-centered","scoreType":null,"showFirstGroupAggregate":false,"selectedElements":[],"emptyStateHeading":"No data available.","showForecast":false,"legendHorizontalAlignment":"center","filterPerMetric":[],"chartInteractionActionGoToURLPageName":"test","truncationType":"end","showRegisterValue":false,"sortBy":"name","dataSources":[{"sourceType":"table","allowRealTime":true,"label":"タスク","id":"dGFibGV0YXNrMTc2MjQ4MjM0MjM2Nw==","tableOrViewName":"task","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"dataCategories":["trend","group","simple"],"isDatabaseView":false,"filterQuery":"sys_class_name=x_1781293_test1_task_test_1^ORsys_class_name=x_1781293_test2_task_test_1"}],"chartInteractionActionGoToURLInput":"https://dev215086.service-now.com/now/platform-analytics-workspace/dashboards/params/edit/false/sys-id/fd5f893983057210c386e5d0deaad349","showAdditionalGroupBySelector":false,"registerPosition":"bottom","cacheExpirationTime":0,"period":"M","showChange":false,"configVersion":"23.0.0-ci-SNAPSHOT","legendExpandToFit":false,"showSubAggregate":false,"showRegisterPercentage":false,"showLoadingIndicator":false,"showRegisterOnSameLine":false,"useDataCache":false,"showSecondGroupAggregate":false,"showFilterAsSeparateSeries":false,"showMetricLabel":false,"showCacheTime":true,"showHeaderSeparator":true,"showSparkline":false,"hideDevSettings":false,"showTarget":false,"allowAdditionalGroupByPerMetric":false,"showDataLabels":true,"telemetry":null,"metrics":[{"numberFormat":{"customFormat":false},"id":"ZEdGaWJHVjBZWE5yTVRjMk1qUTRNak0wTWpNMk53PT0xNzYyNDgyMzQ0NDU5","aggregateFunction":"COUNT","dataSource":"dGFibGV0YXNrMTc2MjQ4MjM0MjM2Nw==","axisId":"primary"}],"showChangeFrom":"previous","registerOrientation":"horizontal","showDataTable":true,"headerTitle":"タスクテーブル","configPropModifiers":{},"applyDateRange":false,"sharedContext":{"datasourceConfigurations":{"table":{"useSeriesLabels":false,"timeZone":"SESSION"}}},"sortByOrder":"asc","enableCustomEmptyState":true,"componentId":"eisagku5","showThreshold":false,"allowChangeDateRange":false,"hideMatrixAggregate":false,"description":"タスク拡張から始まるテーブルにしぽったデータ","trendBy":null,"numberOfPeriods":3,"groupBy":[{"disableRanges":false,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"groupBy":[{"groupByField":"sys_class_name","isChoice":true,"isPaBucket":false,"dataSource":"dGFibGV0YXNrMTc2MjQ4MjM0MjM2Nw==","isRange":false}],"maxNumberOfGroups":"ALL"}],"showRefresh":true,"contextMenuActions":[],"colors":{},"showTrend":false,"enableRealTimeUpdate":false,"useCurrentDateForEnd":false,"showRegister":true,"showForecastRange":false,"showAbsolutePeriod":false,"dataLabelsType":"both","followFilters":true,"enableClickAndStay":false,"showTotalAggregate":false,"showChangePercentage":false,"chartInteractionAction":"goToUrl","showHeader":true,"bareBorder":false,"showDateRangeByDefault":false,"showConfidenceBand":false,"showComment":false,"refreshFrequency":null,"wrapTitle":false,"additionalGroupByConfig":[],"showBorder":true,"colorConfig":{"type":"default"},"filterConfigurations":"@state.parFilters","showGapPercentage":false,"showDataPassthrough":false,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","newReporting":false,"emptyStateIllustration":"add-attachment","headingLevel":2,"enableDrilldown":true}</component_props><h>17</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin_fujisawa_shouma</sys_created_by><sys_created_on>2025-11-07 02:24:13</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6050dd3d83057210c386e5d0deaad3d1</sys_id><sys_mod_count>12</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package><sys_policy/><sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope><sys_update_name>par_dashboard_widget_6050dd3d83057210c386e5d0deaad3d1</sys_update_name><sys_updated_by>admin_fujisawa_shouma</sys_updated_by><sys_updated_on>2025-11-07 05:19:29</sys_updated_on><visualization/><w>14</w><widget_props/><x>0</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-1965023754</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>d797893183057210c386e5d0deaad380</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-07 05:19:29</sys_created_on>
+        <sys_id>0478717583097210c386e5d0deaad342</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a5cc165340000001</sys_recorded_at>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-07 05:19:29</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>887871750e0972104d2aced6b0ebb041</update_guid>
+        <update_guid_history>887871750e0972104d2aced6b0ebb041:-1965023754,5ecfa139bfc572103ab64593232155a2:-191199772,5e3fe1f571c5721042d406e73364e845:918040730,eed4d5357b45721036a793d415698486:995234035,6ba31db1674572101a9aac60b2c257e9:-29459886,c05391b1c3457210b0539b190e37c8fb:-225651498,d9139d711f45721061c916da3d3a8d56:-2028913602,8c031d7175457210c677b6f34e38215a:805290762,9cd2d5715f457210dce6b8daf9f385a6:1972210807,b9821171b645721028120f9ecf8a0bc0:101625039,f8d1d9fd35057210b51b5e65f5157d6f:-995502183,051151bdac057210fd847bda03a8132d:-1498606195,2450dd3dfe0572108bc065078c0f65d3:1052273096</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">5ce922df83497210c386e5d0deaad38a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-12 00:46:24</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>cb95b6b7f1f64d0097bfcadf5f563900</sys_id>
+        <sys_metadata>6050dd3d83057210c386e5d0deaad3d1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope>
+        <sys_scope_delete display_value="">1822ea28276e4acc826ac3e1af005f10</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_6050dd3d83057210c386e5d0deaad3d1</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_6050dd3d83057210c386e5d0deaad3d1">0478717583097210c386e5d0deaad342</sys_update_version>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-12 00:46:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

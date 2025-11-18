@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">d14f45f983057210c386e5d0deaad39b</canvas>
+        <component display_value="Filter Group">ba8b5fa922351c2027c524c91a134bf2</component>
+        <component_props>{"groupConfiguration":{"filterId":"group-mhoc77ud","showLabel":true,"label":"フィルター","layout":"horizontal","spacing":"s","showSelectedValuesInPill":true,"showBorder":true,"showRoundCorners":false,"bare":false,"showApply":true,"showClear":true,"showReset":true,"combineActions":false,"showSeparator":true,"filterMaxWidth":300,"cascadeScope":"group-mhoc77ud","filters":[{"filterName":"フィルター","filterId":"mhoc77ud","dateFilterView":"calendar-reldates","defaultSelectedDateRange":{"range":""},"defaultSelectedItems":[],"filterConfigurations":[],"filterComponentType":"multiselect","updated":"1762489077777","datasource":{"type":"table","payload":{"table":"sys_user","primaryKey":"sys_id"}},"targets":[{"type":"table","payload":{"field":"assigned_to","table":"task","primaryKey":"sys_id"}}],"cascadingConfig":{"filterM2MConfigurations":[{"filterId":"mhocdf29","following":true,"filterM2MTable":"sysapproval_approver","fromField":"sysapproval","toField":"approver"}]}},{"filterName":"フィルター","filterId":"mhocdf29","dateFilterView":"calendar-reldates","defaultSelectedDateRange":{"range":""},"defaultSelectedItems":[],"filterConfigurations":[],"filterComponentType":"multiselect","updated":"1762489096814","datasource":{"type":"table","payload":{"field":"priority","table":"task","primaryKey":"sys_id"}},"targets":[{"type":"table","payload":{"field":"priority","table":"task","primaryKey":"sys_id"}}]}],"isDashboard":false,"key":1762489096814},"filterConfigurations":"@state.parFilters","isDashboard":true,"showReset":true,"combineActions":false,"filterComponentType":"multiselect","datasource":{"type":"table","payload":{"field":"priority","table":"task","primaryKey":"sys_id"}},"targets":[{"type":"table","payload":{"field":"priority","table":"task","primaryKey":"sys_id"}}],"spacing":"s","showSelectedValuesInPill":true,"filterId":"1j9e8c2h33l019j66l8s","cascadingConfig":{"filterM2MConfigurations":[{"filterId":"mhocdf29","following":true,"filterM2MTable":"sysapproval_approver","fromField":"sysapproval","toField":"approver"}]}}</component_props>
+        <h>7</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-07 04:12:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b909edbd83857210c386e5d0deaad33a</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope>
+        <sys_update_name>par_dashboard_widget_b909edbd83857210c386e5d0deaad33a</sys_update_name>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-07 04:26:32</sys_updated_on>
+        <visualization/>
+        <w>24</w>
+        <widget_props/>
+        <x>0</x>
+        <y>35</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</application>
+        <file_path/>
+        <instance_id>0001c44e1b26719cc84543f4bd4bcb06</instance_id>
+        <instance_name>dev215086</instance_name>
+        <name>par_dashboard_widget_b909edbd83857210c386e5d0deaad33a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">d14f45f983057210c386e5d0deaad39b</canvas><component display_value="Filter Group">ba8b5fa922351c2027c524c91a134bf2</component><component_props>{"groupConfiguration":{"filterId":"group-mhoc77ud","showLabel":true,"label":"フィルター","layout":"horizontal","spacing":"s","showSelectedValuesInPill":true,"showBorder":true,"showRoundCorners":false,"bare":false,"showApply":true,"showClear":true,"showReset":true,"combineActions":false,"showSeparator":true,"filterMaxWidth":300,"cascadeScope":"group-mhoc77ud","filters":[{"filterName":"フィルター","filterId":"mhoc77ud","dateFilterView":"calendar-reldates","defaultSelectedDateRange":{"range":""},"defaultSelectedItems":[],"filterConfigurations":[],"filterComponentType":"multiselect","updated":"1762489077777","datasource":{"type":"table","payload":{"table":"sys_user","primaryKey":"sys_id"}},"targets":[{"type":"table","payload":{"field":"assigned_to","table":"task","primaryKey":"sys_id"}}],"cascadingConfig":{"filterM2MConfigurations":[{"filterId":"mhocdf29","following":true,"filterM2MTable":"sysapproval_approver","fromField":"sysapproval","toField":"approver"}]}},{"filterName":"フィルター","filterId":"mhocdf29","dateFilterView":"calendar-reldates","defaultSelectedDateRange":{"range":""},"defaultSelectedItems":[],"filterConfigurations":[],"filterComponentType":"multiselect","updated":"1762489096814","datasource":{"type":"table","payload":{"field":"priority","table":"task","primaryKey":"sys_id"}},"targets":[{"type":"table","payload":{"field":"priority","table":"task","primaryKey":"sys_id"}}]}],"isDashboard":false,"key":1762489096814},"filterConfigurations":"@state.parFilters","isDashboard":true,"showReset":true,"combineActions":false,"filterComponentType":"multiselect","datasource":{"type":"table","payload":{"field":"priority","table":"task","primaryKey":"sys_id"}},"targets":[{"type":"table","payload":{"field":"priority","table":"task","primaryKey":"sys_id"}}],"spacing":"s","showSelectedValuesInPill":true,"filterId":"1j9e8c2h33l019j66l8s","cascadingConfig":{"filterM2MConfigurations":[{"filterId":"mhocdf29","following":true,"filterM2MTable":"sysapproval_approver","fromField":"sysapproval","toField":"approver"}]}}</component_props><h>7</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin_fujisawa_shouma</sys_created_by><sys_created_on>2025-11-07 04:12:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b909edbd83857210c386e5d0deaad33a</sys_id><sys_mod_count>6</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package><sys_policy/><sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope><sys_update_name>par_dashboard_widget_b909edbd83857210c386e5d0deaad33a</sys_update_name><sys_updated_by>admin_fujisawa_shouma</sys_updated_by><sys_updated_on>2025-11-07 04:26:32</sys_updated_on><visualization/><w>24</w><widget_props/><x>0</x><y>35</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-845071063</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>d797893183057210c386e5d0deaad380</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-07 04:26:32</sys_created_on>
+        <sys_id>145c65f183c57210c386e5d0deaad3c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a5c90ec570000001</sys_recorded_at>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-07 04:26:32</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>985c65f187c57210f51d93013f034ec3</update_guid>
+        <update_guid_history>985c65f187c57210f51d93013f034ec3:-845071063,6c7a6d31e2c57210ec05f614078ee321:1976268812,2f5ae931c6c57210037a9d795cd5e3f5:-1328172567,e7f9adfd6d85721014dde4cb8fbb1569:846631852,c8e9a57dd185721044bb4ffa54d9fc4d:-287694287,7db9ad7dec857210bc615d3675c180c0:-1608596156,3d09edbd09857210a464781f726b5d3b:-398382350</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">9ce922df83497210c386e5d0deaad3a6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-12 00:46:24</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>0a6e8cec6928450c89f8b0de3c230ec4</sys_id>
+        <sys_metadata>b909edbd83857210c386e5d0deaad33a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope>
+        <sys_scope_delete display_value="">1822ea28276e4acc826ac3e1af005f10</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_b909edbd83857210c386e5d0deaad33a</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_b909edbd83857210c386e5d0deaad33a">145c65f183c57210c386e5d0deaad3c4</sys_update_version>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-12 00:46:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

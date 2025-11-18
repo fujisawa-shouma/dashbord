@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard">
+    <par_dashboard action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <base_dashboard/>
+        <certified>false</certified>
+        <description/>
+        <experience display_value="詳細ダッシュボード">8adc36706f01011089060168e25b3693</experience>
+        <grid>48</grid>
+        <name>ホーム</name>
+        <sys_class_name>par_dashboard</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-13 06:44:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5655c9f783013210c386e5d0deaad3f9</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>ホーム</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope>
+        <sys_update_name>par_dashboard_5655c9f783013210c386e5d0deaad3f9</sys_update_name>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-13 06:53:18</sys_updated_on>
+        <sys_ux_app_config display_value="詳細ダッシュボード">02dc36706f01011089060168e25b3691</sys_ux_app_config>
+        <sys_ux_app_route display_value="ホーム">8355857b83013210c386e5d0deaad3f3</sys_ux_app_route>
+        <sys_ux_macroponent display_value="ホーム default">e255857b83013210c386e5d0deaad3bf</sys_ux_macroponent>
+        <sys_ux_screen display_value="ホーム default">3655857b83013210c386e5d0deaad3e9</sys_ux_screen>
+        <sys_ux_screen_type display_value="ホーム">ee55857b83013210c386e5d0deaad3bb</sys_ux_screen_type>
+    </par_dashboard>
+</record_update>

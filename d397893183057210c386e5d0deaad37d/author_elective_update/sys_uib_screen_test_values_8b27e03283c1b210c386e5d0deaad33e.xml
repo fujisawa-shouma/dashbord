@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="DELETE">
+        <macroponent/>
+        <macroponent_config>{ }</macroponent_config>
+        <screen display_value="ホーム default">8b27e03283c1b210c386e5d0deaad337</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-10 01:58:22</sys_created_on>
+        <sys_id>8b27e03283c1b210c386e5d0deaad33e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_8b27e03283c1b210c386e5d0deaad33e</sys_update_name>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-10 01:58:23</sys_updated_on>
+    </sys_uib_screen_test_values>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</application>
+        <file_path/>
+        <instance_id>0001c44e1b26719cc84543f4bd4bcb06</instance_id>
+        <instance_name>dev215086</instance_name>
+        <name>sys_uib_screen_test_values_8b27e03283c1b210c386e5d0deaad33e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values"><sys_uib_screen_test_values action="INSERT_OR_UPDATE"><macroponent/><macroponent_config>{ }</macroponent_config><screen display_value="ホーム default">8b27e03283c1b210c386e5d0deaad337</screen><sys_class_name>sys_uib_screen_test_values</sys_class_name><sys_created_by>admin_fujisawa_shouma</sys_created_by><sys_created_on>2025-11-10 01:58:22</sys_created_on><sys_id>8b27e03283c1b210c386e5d0deaad33e</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package><sys_policy/><sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope><sys_update_name>sys_uib_screen_test_values_8b27e03283c1b210c386e5d0deaad33e</sys_update_name><sys_updated_by>admin_fujisawa_shouma</sys_updated_by><sys_updated_on>2025-11-10 01:58:23</sys_updated_on></sys_uib_screen_test_values></record_update>]]></payload>
+        <payload_hash>-1908267316</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>d797893183057210c386e5d0deaad380</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-10 01:58:23</sys_created_on>
+        <sys_id>1f27e03283c1b210c386e5d0deaad355</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a6b7c5a850000001</sys_recorded_at>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-10 01:58:23</sys_updated_on>
+        <type>UIB Test Values</type>
+        <update_guid>9327e03220c1b210175b42817326e255</update_guid>
+        <update_guid_history>9327e03220c1b210175b42817326e255:-1908267316,8327e032dcc1b21048a123f5bb9f2740:571848471</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-11 08:39:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_uib_screen_test_values">sys_uib_screen_test_values</sys_db_object>
+        <sys_id>978fbfff6fe94a3886017ec2ca70d1b1</sys_id>
+        <sys_metadata>8b27e03283c1b210c386e5d0deaad33e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope>
+        <sys_scope_delete display_value="">1822ea28276e4acc826ac3e1af005f10</sys_scope_delete>
+        <sys_update_name>sys_uib_screen_test_values_8b27e03283c1b210c386e5d0deaad33e</sys_update_name>
+        <sys_update_version display_value="sys_uib_screen_test_values_8b27e03283c1b210c386e5d0deaad33e">1f27e03283c1b210c386e5d0deaad355</sys_update_version>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-11 08:39:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

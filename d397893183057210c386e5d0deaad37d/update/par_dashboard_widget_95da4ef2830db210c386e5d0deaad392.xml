@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">ac84387a8305b210c386e5d0deaad3cf</canvas>
+        <component display_value="Line">18ac962264404bcc0039359d184b15f3</component>
+        <component_props>{"drilldownLabel":false,"configVersion":"23.0.0-ci-SNAPSHOT","showDataLabels":false,"disableTooltip":false,"showClosestSeriesOnHover":true,"showXGrid":false,"showDateRangeByDefault":false,"showYGrid":true,"hideYAxis0":false,"yAxis0Position":"left","hideYAxis1":false,"yAxis1Position":"right","hideYAxis2":false,"yAxis2Position":"right","hideYAxis3":false,"yAxis3Position":"right","hideYAxis4":false,"yAxis4Position":"right","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"yAxisStyle":"clean","lineStrokeWidth":"2","chartVariation":"stacked","extensionType":"line","showContinuousLine":true,"showMarkers":false,"colorConfig":{"type":"default"},"newReporting":false,"enableAddZerosAtApi":true,"additionalGroupByConfig":[],"dataSources":[{"sourceType":"table","allowRealTime":true,"label":"タスク","id":"dGFibGV0YXNrMTc2MjgyNTQyNDU1Mw==","tableOrViewName":"task","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"dataCategories":["trend","group","simple"],"isDatabaseView":false,"filterQuery":"assigned_toDYNAMIC54635e965f510100a9ad2572f2b4774c^ORassignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744^state=1^ORstate=2^ORstate="}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"lineClamp":1,"wrapTitle":false,"showLoadingIndicator":false,"showHeaderSeparator":false,"contextMenuActions":[],"headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"allowAdditionalGroupByPerMetric":true,"metrics":[{"numberFormat":{"customFormat":false},"id":"ZEdGaWJHVjBZWE5yTVRjMk1qZ3lOVFF5TkRVMU13PT0xNzYyODI1NDI2OTU3","aggregateFunction":"COUNT","dataSource":"dGFibGV0YXNrMTc2MjgyNTQyNDU1Mw==","axisId":"primary"}],"groupBy":[{"disableRanges":false,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"groupBy":[{"groupByField":"sys_class_name","isChoice":true,"isPaBucket":false,"dataSource":"dGFibGV0YXNrMTc2MjgyNTQyNDU1Mw==","isRange":false}],"maxNumberOfGroups":"ALL"}],"filterPerMetric":[],"sortBy":"value","sortByOrder":"desc","trendBy":{"trendByFrequency":"week","trendByMinuteInterval":null,"trendByFields":[{"field":"sys_created_on","metric":"ZEdGaWJHVjBZWE5yTVRjMk1qZ3lOVFF5TkRVMU13PT0xNzYyODI1NDI2OTU3"}]},"showChange":null,"showChangePercentage":null,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":null,"showSparkline":null,"showMetricLabel":null,"showThreshold":false,"showComment":false,"showTotalValue":null,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":null,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"componentId":"998zo6dk","emptyStateIllustration":"no-data","emptyStateHeading":"データがありません。","emptyStateHeadingLevel":3,"emptyStateContent":"選択したクライテリアに利用可能なスコアがありません。詳細については、アドミンにお問い合わせください。","emptyStateAlignment":"vertical-centered","refreshFrequency":null,"hideDevSettings":false,"configPropModifiers":{},"filterConfigurations":"@state.parFilters","showMaximumRange":false,"allowChangeDateRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":"latest","showChangeFrom":null,"startTime":null,"endTime":null,"useCurrentDateForEnd":false,"period":null,"useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"showFilterAsSeparateSeries":false,"userInfo":"@context.session.user","sharedContext":null,"colors":{},"chartInteractionAction":"goToData"}</component_props>
+        <h>11</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin_fujisawa_shouma</sys_created_by>
+        <sys_created_on>2025-11-10 09:13:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>95da4ef2830db210c386e5d0deaad392</sys_id>
+        <sys_mod_count>17</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope>
+        <sys_update_name>par_dashboard_widget_95da4ef2830db210c386e5d0deaad392</sys_update_name>
+        <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
+        <sys_updated_on>2025-11-18 05:14:34</sys_updated_on>
+        <visualization/>
+        <w>18</w>
+        <widget_props/>
+        <x>30</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>
