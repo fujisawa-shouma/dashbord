@@ -38,7 +38,7 @@
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
-        <user_role display_value="x_1781293_dashbo_0.user" name="x_1781293_dashbo_0.user">d397893183057210c386e5d0deaad3f7</user_role>
+        <user_role display_value="">d397893183057210c386e5d0deaad3f7</user_role>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>
