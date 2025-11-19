@@ -34,7 +34,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d348119d83997210c386e5d0deaad37a</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>勤務時間登録 default</sys_name>
         <sys_overrides/>
         <sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package>
@@ -42,7 +42,7 @@
         <sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope>
         <sys_update_name>sys_ux_screen_d348119d83997210c386e5d0deaad37a</sys_update_name>
         <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
-        <sys_updated_on>2025-11-18 08:27:38</sys_updated_on>
+        <sys_updated_on>2025-11-19 07:24:27</sys_updated_on>
     </sys_ux_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=d348119d83997210c386e5d0deaad37a"/>
     <sys_translated_text action="INSERT_OR_UPDATE">

@@ -126,7 +126,7 @@
                 "value": {
                     "code": null,
                     "comment": "",
-                    "message": "&lt;p&gt;&lt;span style=\"font-size: 18pt;\"&gt;&lt;a href=\"https://dev215086.service-now.com/now/nav/ui/classic/params/target/x_1813832_0_working_hours_table_list.do%3Fsysparm_userpref_module%3D7cebb49bc3b8761058a9d5fc050131c7%26sysparm_query%3Dsys_created_onONToday%2540javascript%3Ags.beginningOfToday()%2540javascript%3Ags.endOfToday()%255EstatusSTARTSWITH%25E5%258B%25A4%25E5%258B%2599%25E4%25B8%25AD%255EEQ\"&gt;退勤登録&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;"
+                    "message": "&lt;p&gt;&lt;span style=\"font-size: 18pt;\"&gt;&lt;a href=\"https://dev284778.service-now.com/now/nav/ui/classic/params/target/x_1813832_0_working_hours_table_list.do%3Fsysparm_userpref_module%3D7cebb49bc3b8761058a9d5fc050131c7%26sysparm_query%3Dsys_created_onONToday%2540javascript%253Ags.beginningOfToday%2528%2529%2540javascript%253Ags.endOfToday%2528%2529%255EstatusSTARTSWITH%25E5%258B%25A4%25E5%258B%2599%25E4%25B8%25AD%255EEQ%26sysparm_clear_stack%3Dtrue\"&gt;退勤登録&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;"
                 }
             }
         },
@@ -739,7 +739,7 @@
         <output_prop_mapping/>
         <props>[]</props>
         <required_translations>[ {
-  "message" : "&lt;p&gt;&lt;span style=\"font-size: 18pt;\"&gt;&lt;a href=\"https://dev215086.service-now.com/now/nav/ui/classic/params/target/x_1813832_0_working_hours_table_list.do%3Fsysparm_userpref_module%3D7cebb49bc3b8761058a9d5fc050131c7%26sysparm_query%3Dsys_created_onONToday%2540javascript%3Ags.beginningOfToday()%2540javascript%3Ags.endOfToday()%255EstatusSTARTSWITH%25E5%258B%25A4%25E5%258B%2599%25E4%25B8%25AD%255EEQ\"&gt;退勤登録&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;",
+  "message" : "&lt;p&gt;&lt;span style=\"font-size: 18pt;\"&gt;&lt;a href=\"https://dev284778.service-now.com/now/nav/ui/classic/params/target/x_1813832_0_working_hours_table_list.do%3Fsysparm_userpref_module%3D7cebb49bc3b8761058a9d5fc050131c7%26sysparm_query%3Dsys_created_onONToday%2540javascript%253Ags.beginningOfToday%2528%2529%2540javascript%253Ags.endOfToday%2528%2529%255EstatusSTARTSWITH%25E5%258B%25A4%25E5%258B%2599%25E4%25B8%25AD%255EEQ%26sysparm_clear_stack%3Dtrue\"&gt;退勤登録&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;",
   "code" : "",
   "comment" : ""
 }, {
@@ -770,14 +770,14 @@
         <sys_created_by>admin_fujisawa_shouma</sys_created_by>
         <sys_created_on>2025-11-17 23:57:49</sys_created_on>
         <sys_id>df48119d83997210c386e5d0deaad367</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>勤務時間登録 default</sys_name>
         <sys_package display_value="Dashboard Test" source="x_1781293_dashbo_0">d397893183057210c386e5d0deaad37d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Dashboard Test">d397893183057210c386e5d0deaad37d</sys_scope>
         <sys_update_name>sys_ux_macroponent_df48119d83997210c386e5d0deaad367</sys_update_name>
         <sys_updated_by>admin_fujisawa_shouma</sys_updated_by>
-        <sys_updated_on>2025-11-18 08:27:38</sys_updated_on>
+        <sys_updated_on>2025-11-19 07:24:27</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=df48119d83997210c386e5d0deaad367"/>
     <sys_translated_text action="INSERT_OR_UPDATE">
